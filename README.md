@@ -1,5 +1,5 @@
 # Secure-Data-Container
-
+Progetto universitario per il corso di Programmazione II - Università di Pisa, a.a. 2018/2019
 
 Il progetto ha l’obiettivo di applicare i concetti e le tecniche di programmazione (Object-Oriented, Defensive programming, Design by contract) esaminate durante il corso. 
 Lo scopo del progetto è lo sviluppo di un componente software di supporto alla gestione di insiemi di dati.
