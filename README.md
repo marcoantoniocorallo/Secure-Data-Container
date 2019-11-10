@@ -21,3 +21,4 @@ Per entrambe le implementazioni sono richieste funzione d'astrazione ed invarian
 
 Per valutare il comportamento dell’implementazioni proposte è stata realizzata una batteria di test in grado di
 operare, senza modifiche specifiche, su entrambe le implementazioni proposte.
+#### Nota: L'intero progetto è stato sviluppato e distribuito riservando particolare interesse al tempo di consegna.
